@@ -1,1 +1,0 @@
-# sql-cpp-db-connectivity
